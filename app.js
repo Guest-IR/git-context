@@ -26,3 +26,6 @@ function generateColor(){
 
 const ulElem=false;
 
+
+const listArr=[12,30,50,300];
+
